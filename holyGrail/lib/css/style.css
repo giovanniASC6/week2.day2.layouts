@@ -31,13 +31,19 @@ nav a:hover{
 }
 
 .main_content_container{
+    display: flex;
 
 }
 
 .main_content{
-
+    color: #739273;
+    padding: 30px;
 }
 
 .flex_padding{
+    width: 30%;
+    background-color: pink;
+    padding: 26px;
+    height: 140vh;
 
 }
